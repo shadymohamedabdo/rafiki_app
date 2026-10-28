@@ -1,6 +1,6 @@
 ﻿# Google Play Console Permissions Declaration Justification
 
-This document provides ready-to-submit justifications for Google Play Console policy compliance for **رفيقي (Rafeeqi)** (com.abdulrahman.rafeeqi).
+This document provides ready-to-submit justifications for Google Play Console policy compliance for **رفيقي (Rafeeqi)** (com.abdulrahman.rafikiApp).
 
 ---
 
